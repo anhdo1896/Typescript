@@ -1,6 +1,6 @@
 # Typescript
 #BE
-Denpendencies: express  @type/express nodemon  body-parser cors @type/cors ts-node-dev typescript mongoose @types/mongoose bcrypt @types/bcrypt
+Denpendencies: express  @type/express nodemon  body-parser cors @type/cors ts-node-dev typescript mongoose @types/mongoose bcrypt @types/bcrypt jsonwebtoken @types/jsonwebtoken multer @types/multer
 
 Note: 
 - Carefull with path folder when use nodemon
