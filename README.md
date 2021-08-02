@@ -1,6 +1,6 @@
 # Typescript
 #BE
-Denpendencies: express  @type/express nodemon  body-parser cors @type/cors ts-node-dev typescript mongoose @types/mongoose bcrypt @types/bcrypt jsonwebtoken @types/jsonwebtoken multer @types/multer
+Denpendencies: express  @type/express nodemon  body-parser cors @type/cors ts-node-dev typescript mongoose @types/mongoose bcrypt @types/bcrypt jsonwebtoken @types/jsonwebtoken multer @types/multer class-validator class-transformer twilio
 
 Note: 
 - Carefull with path folder when use nodemon
@@ -17,3 +17,4 @@ Folders Structure:
 - services: processing
 - utility: handle heplper function
 - images: save images of custormer/product 
+-pass:Q;(Ak5LahU5(XWQ
